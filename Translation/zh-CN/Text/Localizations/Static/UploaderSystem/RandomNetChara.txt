@@ -1,0 +1,4 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+キャラ情報の取得に失敗しました=无法获取角色信息

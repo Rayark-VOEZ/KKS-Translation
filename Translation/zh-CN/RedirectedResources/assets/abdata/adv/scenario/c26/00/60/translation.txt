@@ -1,0 +1,10 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//「ねぇ……いる……？」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
+//「ん、どうぞー」=
+//「おじゃまします……」=
+//「あの……一緒に、寝てもいい……？　あなたを感じながら、寝たいの……」=
+//「……いない、か……残念……」=

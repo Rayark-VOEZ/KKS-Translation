@@ -1,0 +1,10 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//なし=
+//リボン=
+//細リボン=
+//ネクタイ=
+//ルーズネクタイ短=
+//ルーズネクタイ長=
+//のど輪=

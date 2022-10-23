@@ -1,0 +1,11 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+未選択=未选中
+なし=无
+唇=唇
+胸=胸
+股間=胯间
+アナル=肛门
+尻=屁股
+乳首=乳头

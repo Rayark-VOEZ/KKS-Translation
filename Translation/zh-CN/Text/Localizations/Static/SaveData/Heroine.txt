@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+知り合い=相识
+友達=朋友
+恋人=恋人
+親愛=亲爱的
+お客さん=客人
+親友=亲友

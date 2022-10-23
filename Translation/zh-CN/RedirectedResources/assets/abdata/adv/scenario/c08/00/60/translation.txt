@@ -1,0 +1,10 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//「ねぇ、まだ起きてる？」=
+//SELECTION:「返事をする」=
+//SELECTION:「……」=
+//「どうかしたの？」=
+//「急にね、あなたに会いたくなったの」=
+//「だからね、ぎゅって抱きしめてほしいなぁ」=
+//「……もう寝ちゃってたのかな。はぁ……私を帰って寝よう」=

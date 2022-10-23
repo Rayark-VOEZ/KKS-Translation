@@ -1,0 +1,9 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+一致=一致
+不一致=不一致
+以上=以上
+以下=以下
+より大きい=较大的
+より小さい=较小的

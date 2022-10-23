@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+ホテル=酒店
+民宿=家庭旅店
+合宿所=集训宿舍
+に以下からランダムでキャラを滞在させます。=从以下开始随机让角色停留。

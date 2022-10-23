@@ -1,0 +1,8 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//木材（橋など）=木材（桥等等）
+//浅い水辺=浅水边
+//土=土
+//石床 ・コンクリート=石河床 ・混凝土
+//砂=砂

@@ -1,0 +1,7 @@
+//
+// Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
+//
+//晴れた空=
+//昼の空=
+//夕暮れの空=
+//夜空=
