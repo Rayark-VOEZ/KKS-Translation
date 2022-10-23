@@ -1,7 +1,7 @@
 /cache
 /config
 /core
-/KKS-Translation
 /patchers
 /plugins
 /LogOutput.log
+/Translation/zh-CN/Text/*.txt
