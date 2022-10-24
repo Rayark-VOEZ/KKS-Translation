@@ -10,16 +10,16 @@
 * [常见问题](#常见问题)
 
 ## 前置插件
-- [BepInEx 5.4.x+]()
-- [BepisPlugin for KKS]()
-- [XUnity.AutoTranslator]()
-- [KKS_TextResourceRedirector]()
-- [KKS_KKS_Subtitles]()
+- [BepInEx 5.4.x+](https://github.com/BepInEx/BepInEx/releases/)
+- [BepisPlugin for KKS](https://github.com/bbepis/BepisPlugins/releases)
+- [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
+- [KKS_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector)
+- [KKS_KKS_Subtitles](https://github.com/IllusionMods/KK_Plugins#subtitles)
 
 ## 翻译安装
 1. 确保已安装所有前置插件。
-2. 
-3. 解压zip文件并移动到你游戏目录下的BepInEx文件夹(游戏可执行文件所在的文件夹)。
+2. 点击`code`按钮，并在下拉菜单中点击`Download Zip`。
+3. 解压zip文件并将`/KKS-Translation-main`下的文件移动到你游戏目录下的BepInEx文件夹(游戏可执行文件所在的文件夹)。
 
 ## 参与翻译
 每一行翻译都如下所示。  
