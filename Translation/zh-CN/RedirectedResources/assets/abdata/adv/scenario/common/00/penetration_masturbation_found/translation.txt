@@ -1,4 +1,4 @@
 //
 // Dumped for Koikatsu Sunshine v1.1.4 (KoikatsuSunshine) by KKS_TextDump v1.4.5.2
 //
-//「……エッチしたくなっちゃったんだけど、いいかな？」=
+「……エッチしたくなっちゃったんだけど、いいかな？」=“……我想做爱了，可以吗？”

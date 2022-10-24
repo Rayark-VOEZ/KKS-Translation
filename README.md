@@ -32,6 +32,13 @@
 ```
 所有的翻译文件都在`BepInEx/Translation/zh-CN`文件夹下
 
+### 修改AutoTranslator配置文件
+
+
+### 如何添加或改进翻译
+- 
+- 
+
 ## 文本翻译
 
 ## 资源翻译
@@ -40,17 +47,17 @@
 每个`translation.txt`文件都有需要翻译的日文文本。每行文本在开始都被注释，所以它不会被加载。为了文本在游戏中能正确显示，请将翻译放在等号右侧，并删除开头的`//`。不要编辑日文文本，否则翻译将不起作用。示例：  
 翻译前：
 ```
-//ホテル=
+//比嘉 ひかり=
 ```
 翻译后：
 ```
-//ホテル=酒店
+//比嘉 ひかり=比嘉 光
 ```
 ### RedirectedResource目录结构
 |文件夹|描述|
 |---|---|
-|`action/list/clubinfo`| |
-|`action/list/monologue`| |
+|`action/list/clubinfo`|入住目的|
+|`action/list/monologue`|独白|
 |`action/list/prayinfo`|祈祷|
 |`action/list/shopinfo`|商店|
 |`action/list/topic`|话题|
@@ -58,14 +65,14 @@
 |`action/list/sound/se/footstep`|脚步音效|
 |`action/list/wherelive`||
 |`adv/scenario`||
-|`communication/*/communication_*`||
+|`communication/*/communication_*`|女主对话|
 |`communication/*/communicationnpc_*`|NPC对话|
 |`communication/*/optiondisplayitems_*`|对话选项|
-|`communication/*/tips_*`||
-|`communication/*/topiclisten_*`||
+|`communication/*/tips_*`|提示对话|
+|`communication/*/topiclisten_*`|聆听对话|
 |`communication/*/topicpersonalitygroup_*`|
-|`communication/*/topictalkcommon*`||
-|`communication/*/topictalkrare*`||
+|`communication/*/topictalkcommon*`|话题对话|
+|`communication/*/topictalkrare*`|话题对话|
 |`custom/customscenelist`||
 |`etcetra/list/config`||
 |`etcetra/list/nickname`||
@@ -81,50 +88,50 @@
 #### 角色个性  
 |ID|日文|中文|
 |---|---|---|
-|00||
-|01||
-|02||
-|03||
-|04||
-|05||
-|06||
-|07||
-|08||
-|09||
-|10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
-|21||
-|22||
-|23||
-|24||
-|25||
-|26||
-|27||
-|28||
-|29||
-|30||
-|31||
-|32||
-|33||
-|34||
-|35||
-|36||
-|37||
-|38||
-|39||
-|40||
-|41||
-|42||
-|43||
+|00|セクシー||
+|01|お嬢様||
+|02|高飛車||
+|03|後輩キャラ||
+|04|ミステリアス||
+|05|電波||
+|06|大和撫子|
+|07|ボーイッシュ||
+|08|純真無垢||
+|09|単純||
+|10|邪気眼||
+|11|母性的||
+|12|姉御肌||
+|13|ギャル||
+|14|不良少女||
+|15|野生的||
+|16|意識高いクール||
+|17|ひねくれ||
+|18|不幸少女||
+|19|文学少女||
+|20|モジモジ||
+|21|正統派ヒロイン||
+|22|ミーハー||
+|23|オタク女子||
+|24|ヤンデレ||
+|25|ものぐさ||
+|26|無口||
+|27|意地っ張り||
+|28|のじゃっ子|
+|29|素直クール|
+|30|気さく|
+|31|勝ち気|
+|32|誠実|
+|33|艶やか|
+|34|帰国子女|
+|35|方言娘|
+|36|Sッ気|
+|37|無感情|
+|38|几帳面|
+|39|島っ娘|
+|40|高潔|
+|41|ボクっ娘|
+|42|天真爛漫|
+|43|ノリノリ|
 
 ### 个性资产路径
 |类型||
